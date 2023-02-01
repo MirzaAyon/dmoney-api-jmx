@@ -25,3 +25,8 @@
 - Live site - https://vocal-babka-b450ba.netlify.app/
 
 ### Screenshots of the report:
+
+![reportss1](https://user-images.githubusercontent.com/68238652/216037262-e30b044a-8c18-4c83-9c55-c09f922a851d.PNG)
+
+![reportss2](https://user-images.githubusercontent.com/68238652/216037307-a97e9d47-a457-4012-8c36-f22e4ea21ceb.PNG)
+
