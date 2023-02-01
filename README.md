@@ -20,3 +20,8 @@
 2. go to cmd
 3. give this ```jmeter -n -t [jmx file] -l [results file] -e -o [Path to web report folder]``` command 
 4.  report will be generated in the report folder
+
+### Report Livesite:
+- Live site - https://vocal-babka-b450ba.netlify.app/
+
+### Screenshots of the report:
