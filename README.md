@@ -30,3 +30,16 @@
 
 ![reportss2](https://user-images.githubusercontent.com/68238652/216037307-a97e9d47-a457-4012-8c36-f22e4ea21ceb.PNG)
 
+### Requests screenshot:
+
+![requests](https://user-images.githubusercontent.com/68238652/216631758-ff869f8e-95ec-43a9-b3b7-0151b17a97de.PNG)
+
+### Result Tree: 
+
+![result tree](https://user-images.githubusercontent.com/68238652/216631902-b5ce37fa-4e49-4674-b56f-23c7a987cc67.PNG)
+
+### Summary Report:
+
+![summary report](https://user-images.githubusercontent.com/68238652/216632008-a01a9731-f65f-42ca-8860-08704e917701.PNG)
+
+
